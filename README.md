@@ -33,4 +33,4 @@ Finally using MinMaxScaler().fit_transform the scales of the columns for TotalCo
 <br>
 
 ### Conclusion
-Most people only know of a few cryptocurrencies yet this analysis shows that there are 532 tradable coins currently.  Of these coins we used unsupervised machine learning to help us visualize the data on these coins.  If I were to redo the analysis I would remove the 6 coins from the set of 532 that skewed the tables.  This might help to see the data a little clearer.
+Most people only know of a few cryptocurrencies yet this analysis shows that there are 532 tradable coins currently.  Of these coins we used unsupervised machine learning to help us visualize the data on these coins.  If I were to redo the analysis I would remove the BitTorrent coin from the set of 532 as it seems to skew the output of the figures.
